@@ -1,7 +1,7 @@
-# eslint-config-darron
+# eslint-config-noon
 
 ## Install
 
 ```bash
-yarn add @darron1217/eslint-config-darron
+yarn add @noon/eslint-config-noon
 ```

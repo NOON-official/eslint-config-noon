@@ -1,9 +1,9 @@
 {
-  "name": "@darron1217/eslint-config-darron",
+  "name": "@noon/eslint-config-noon",
   "version": "0.1.0",
-  "description": "My eslint config",
+  "description": "NO:ON eslint config",
   "main": "lib/index.js",
-  "repository": "https://github.com/darron1217/eslint-config-darron.git",
+  "repository": "https://github.com/NOON-official/eslint-config-noon.git",
   "author": "Darron Park",
   "license": "MIT",
   "dependencies": {
